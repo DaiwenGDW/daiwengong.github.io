@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Daiwen's Homepage"
 title_separator          : "-"
 name                     : &name "Daiwen Gong"
 description              : &description "Ph.D. Student in Linguistics"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Daiwen Gong"
-  pronouns         : "龚待闻"  
+  name             : "龚待闻"
   bio              : "Ph.D. Student in Linguistics"
   location         : "Singapore, Singapore"
   employer         : "National University | of Singapore"
