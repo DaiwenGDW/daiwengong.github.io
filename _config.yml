@@ -8,10 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daiwen's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Daiwen Gong"
-name                     : &name "龚待闻"
 description              : &description "Ph.D. Student in Linguistics"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Daiwen Gong"
-  pronouns         : "she/her"  
+  pronouns         : "龚待闻"  
   bio              : "Ph.D. Student in Linguistics"
   location         : "Singapore, Singapore"
   employer         : "National University | of Singapore"
